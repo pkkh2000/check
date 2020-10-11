@@ -4,7 +4,7 @@ A collaborative media annotation platform.
 
 This is a [Docker Compose](https://docs.docker.com/compose/) configuration that spins up the whole Check app locally. Tested on Linux and Mac OS X. The repo contains two Docker Compose files, one for development (`docker-compose.yml`) and the other for testing (`docker-test.yml`).
 
-![Diagram](diagram.png?raw=true "Diagram")
+![Dgram](diagram.png?raw=true "Diagram")
 
 ## DO NOT USE IN PRODUCTION! THIS IS ONLY MEANT AS A DEVELOPMENT ENVIRONMENT.
 
